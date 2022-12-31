@@ -1,2 +1,4 @@
 Hello world (2)
 I still have no idea what I'm doing but that's okay.
+
+I have been practicing and learning. I had to reinstall ubuntu today, which was a good lesson. I learned more about SSH keys, and how to get git reconfigured since it has been nearly a year since I did that last. The terminal is still kind of intimidating but there are things that are coming much more easily than they were before. Anyway, hello world. 
